@@ -1,2 +1,2 @@
-# DiscordBot
+# Discord bot - KAPNOYR bot
  
